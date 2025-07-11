@@ -12,8 +12,8 @@ As perguntas respondidas pelas queries são:
 
 1. Quais são as categorias distintas de produtos?
 2. Quantos pedidos foram feitos por categoria?
-3. Quais são as 5 categorias com mais pedidos?
-4. Qual o total vendido por categoria (soma dos preços)?
-5. Quais as 5 categorias com maior valor total vendido?
-6. Quais as 5 categorias mais vendidas no estado de São Paulo?
-7. Quais os 5 estados com maior volume de vendas?
+3. Qual a quantidade vendida por categoria?
+4. Quais as top 5 categorias de produtos considerando a quantidade de pedidos?
+5. Quais as top 5 categorias de produtos considerando a quantidade vendida?
+6. Quais as top 5 categorias mais vendidas no estado de São Paulo?
+7. Quais os top 5 estados com mais vendas?
